@@ -4,7 +4,7 @@ export default function AdminIndex() {
   return (
     <p>
       <Link to="new" className="text-blue-600 underline">
-        Create a New Post
+        Create a New Postttt
       </Link>
     </p>
   );
